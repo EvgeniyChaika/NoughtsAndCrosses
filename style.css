@@ -1,0 +1,69 @@
+.form-one {
+    float: left;
+    padding-left: 20px;
+}
+p {
+    margin: 5px 0;
+}
+input {
+    height: 20px;
+}
+span {
+    padding-left: 10px;
+}
+.head {
+    height: 280px;
+    background-color: gainsboro ;
+}
+
+#1 {
+
+    margin: 30px;
+    overflow: hidden;
+}
+
+td {
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    background: red;
+}
+
+td input {
+    height: 95px;
+    width: 95px;
+    margin: 2px;
+    background: palevioletred;
+    font-size: 70px;
+}
+table{
+    margin: 20px;
+}
+
+#radio {
+    margin-left: 200px;
+}
+
+b {
+    padding-left: 7%;
+}
+
+#2 {
+    float: left;
+    margin: 100px;
+}
+
+#3 {
+    float: left;
+    margin: 100px;
+}
+
+#4 {
+    float: left;
+    margin: 100px;
+}
+h1 {
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
